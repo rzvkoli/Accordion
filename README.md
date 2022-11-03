@@ -9,8 +9,7 @@
 ## Preview
 ### Desktop Mode
 
-![00](https://user-images.githubusercontent.com/100797809/198218486-6e00461e-c41e-428f-b51d-93be2a76e94c.png)
-
-![01](https://user-images.githubusercontent.com/100797809/198219376-88847a57-72b1-41b3-8fe3-704d3811d06e.png)
+![00](https://user-images.githubusercontent.com/100797809/199766145-c48cbd42-e048-4f4f-9062-ea79c5708765.png)
+![01](https://user-images.githubusercontent.com/100797809/199766176-834fc3e7-0e69-4bd0-8bab-eba119ab6958.png)
 
 ---
